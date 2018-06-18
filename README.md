@@ -8,7 +8,7 @@
 
 <img src="https://cl.ly/r3W4/629.gif" align="right" hspace="10" vspace="10">
 
-You're going to teach Ruby how to do the Macarena! Within the program `macarena.rb` are some of the steps of the Mararena. They are out of order and a few of the steps are missing. It's your job to fix them!
+You're going to teach Ruby how to do the Macarena! Within the program `macarena.rb` are some of the steps of the Macarena. They are out of order and a few of the steps are missing. It's your job to fix them!
 
 Run `learn` to see the correct sequence of steps one at a time.
 
