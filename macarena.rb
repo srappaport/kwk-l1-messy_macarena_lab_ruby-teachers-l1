@@ -1,7 +1,7 @@
 def hungry_colin
-  food = 0
-  until food == 30
-    puts "I AM ON THE HUNT FOR FOOD"
+  pesto_pasta = 0
+  until pesto_pasta == 30
+    puts "I AM ON THE HUNT FOR PESTO PASTA"
     pineapple += 1
   end
 end
