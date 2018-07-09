@@ -1,3 +1,11 @@
+def hungry_colin
+  food = 0
+  until food == 30
+    puts "I AM ON THE HUNT FOR FOOD"
+    pineapple += 1
+  end
+end
+
 puts "How To Do The Macarena:"
 puts ""
 
