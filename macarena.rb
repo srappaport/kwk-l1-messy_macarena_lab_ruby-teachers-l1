@@ -18,7 +18,7 @@ def macarena
   x=10
   y=100
 end
-
+puts x
 def hello
   puts "hello"
 end
