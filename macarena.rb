@@ -17,4 +17,3 @@ puts "Step 7: Bring your right hand up and around to the back of your head"
 puts "Step 8: Bring your left hand up and around to the back your head"
 end
 
-macarena
